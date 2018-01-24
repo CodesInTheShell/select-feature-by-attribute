@@ -5,19 +5,18 @@ QGIS plugin to select feature base on attribute value
 
 ===================== INSTALLATION ===========================
 
-Download a copy of the folder SelectFeatByAttr to your QGIS python plugin folder. 
+Download a copy of the folder Select Feature by Attribute to your QGIS python plugin folder. See folder location below.
 
-Windows
-  c:\Users\username\.qgis2\python\plugins
-  
-Linux
-  /home/username/.qgis2/python/plugins
+For Windows:
+ c:\Users\username.qgis2\python\plugins
 
-Mac
-  /Users/username/.qgis2/python/plugins
-  
-Activate the plugin. In your QGIS, go to Plugins menu, click Manange and Install Plugins..., search for Select Feature By Attribute 
-then check the checkbox.
+For Linux:
+ /home/username/.qgis2/python/plugins
+
+For Mac 
+/Users/username/.qgis2/python/plugins
+
+Activate the plugin. In your QGIS, go to Plugins menu, click Manange and Install Plugins..., search for Select Feature By Attribute then check the checkbox.
 
 ===================== USAGE ===========================
 
